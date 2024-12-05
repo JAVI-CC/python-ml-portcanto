@@ -1,0 +1,15 @@
+artifact_uri: file:///home/javi/github/portcanto/mlruns/514797251096916976/8fb7a5ac0e864ef4a65caed3f0f090be/artifacts
+end_time: 1733407591155
+entry_point_name: ''
+experiment_id: '514797251096916976'
+lifecycle_stage: active
+run_id: 8fb7a5ac0e864ef4a65caed3f0f090be
+run_name: masked-croc-527
+run_uuid: 8fb7a5ac0e864ef4a65caed3f0f090be
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1733407591111
+status: 3
+tags: []
+user_id: javi

@@ -1,0 +1,15 @@
+artifact_uri: file:///home/javi/github/portcanto/mlruns/514797251096916976/41577269e7114332a4fd999077169185/artifacts
+end_time: 1733407591186
+entry_point_name: ''
+experiment_id: '514797251096916976'
+lifecycle_stage: active
+run_id: 41577269e7114332a4fd999077169185
+run_name: industrious-bear-748
+run_uuid: 41577269e7114332a4fd999077169185
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1733407591160
+status: 3
+tags: []
+user_id: javi

@@ -1,0 +1,17 @@
+#version: '3'
+
+services:
+  app:
+    build:
+      context: .
+      dockerfile: Dockerfile
+    image: javi98/python-ml-portcanto:1.0.0
+    container_name: python-ml-portcanto-app
+    restart: unless-stopped
+    ports:
+      - 5000:5000
+    #tty: true
+    #stdin_open: true
+    command: mlflow ui --host 0.0.0.0
+    volumes:
+      - ./:/code

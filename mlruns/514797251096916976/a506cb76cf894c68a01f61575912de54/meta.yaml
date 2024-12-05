@@ -1,0 +1,15 @@
+artifact_uri: file:///home/javi/github/portcanto/mlruns/514797251096916976/a506cb76cf894c68a01f61575912de54/artifacts
+end_time: 1733407591334
+entry_point_name: ''
+experiment_id: '514797251096916976'
+lifecycle_stage: active
+run_id: a506cb76cf894c68a01f61575912de54
+run_name: salty-shrimp-694
+run_uuid: a506cb76cf894c68a01f61575912de54
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1733407591305
+status: 3
+tags: []
+user_id: javi

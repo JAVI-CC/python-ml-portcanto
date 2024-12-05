@@ -1,0 +1,12 @@
+# Temporary files
+*~
+
+__pycache__
+tests/__pycache__
+venv
+
+README.md
+logo.png
+LICENSE.txt
+.gitignore
+.devcontainer

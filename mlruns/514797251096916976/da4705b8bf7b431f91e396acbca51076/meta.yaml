@@ -1,0 +1,15 @@
+artifact_uri: file:///home/javi/github/portcanto/mlruns/514797251096916976/da4705b8bf7b431f91e396acbca51076/artifacts
+end_time: 1733407591300
+entry_point_name: ''
+experiment_id: '514797251096916976'
+lifecycle_stage: active
+run_id: da4705b8bf7b431f91e396acbca51076
+run_name: gaudy-lamb-534
+run_uuid: da4705b8bf7b431f91e396acbca51076
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1733407591269
+status: 3
+tags: []
+user_id: javi

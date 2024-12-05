@@ -1,0 +1,15 @@
+artifact_uri: file:///home/javi/github/portcanto/mlruns/514797251096916976/16e4a0d7ddfc44ba8a260067817a9ecf/artifacts
+end_time: 1733407591225
+entry_point_name: ''
+experiment_id: '514797251096916976'
+lifecycle_stage: active
+run_id: 16e4a0d7ddfc44ba8a260067817a9ecf
+run_name: skillful-hound-850
+run_uuid: 16e4a0d7ddfc44ba8a260067817a9ecf
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1733407591194
+status: 3
+tags: []
+user_id: javi

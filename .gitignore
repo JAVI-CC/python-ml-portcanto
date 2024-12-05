@@ -1,0 +1,13 @@
+# Temporary files
+*~
+
+__pycache__
+
+# data/*.csv
+# img/*.png
+# informes/*.txt
+# model/*.pkl
+# mlruns
+tests/__pycache__
+venv
+.devcontainer
