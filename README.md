@@ -1,7 +1,6 @@
 # Python Machine Learning Portcanto
 
-![Logo](logo.png)
----
+<img src="logo.png" width="500" alt="python-ml-portcanto">
 
 ## Taula de continguts
 1. [Portcanto](#portcanto)
