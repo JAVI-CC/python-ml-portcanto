@@ -9,7 +9,7 @@
 4. [Clustering](#clustering)
 5. [MLflow](#mlflow)
 6. [Documentació del codi](#docs)
-7. [Qualitat del codi](#qualitat)
+7. [Anàlisi del codi estàtic](#analisi)
 7. [Testing](#tests)
 8. [Llicència](#licence)
 
@@ -131,9 +131,9 @@ $ python gendocs.py
 
 ---
 
-### Qualitat del codi <a name="qualitat"></a>
+### Anàlisi del codi estàtic <a name="analisi"></a>
 
-Per comprovar la qualitat del codi:
+Per fer un anàlisi del codi estàtic:
 ```
 $ cd pylint
 $ pylint ../generardataset.py
@@ -155,4 +155,3 @@ $ python -m unittest discover -s tests
 ### Llicència <a name="licence"></a>
 **JAVI-CC** - IOC (2024)
 Llicència MIT. [LICENSE.txt](LICENSE.txt) per més detalls
-
